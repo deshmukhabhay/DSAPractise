@@ -1,4 +1,4 @@
-package Arrays;
+package Arrays.findMinimumAndMaximumElementInAnArray;
 
 class pair {
     long first;
