@@ -7,5 +7,8 @@ Arrays <br />
 3] Kth smallest element <br />
 -- Quick sort <br />
 4] Sort 0 1 2
+5] Sort Negatives
+6] Find Union 
+-- HashSet
 
 
