@@ -11,4 +11,7 @@ Arrays <br />
 6] Find Union 
 -- HashSet
 
+LinkedList can contain the same element multiple times if the same element is added multiple times.
+
+HashSet can only contain the same object once even if you add it multiple times, but it does not retain insertion order in the set.
 
