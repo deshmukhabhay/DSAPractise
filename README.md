@@ -6,5 +6,6 @@ Arrays <br />
 -- Return based on a class <br />
 3] Kth smallest element <br />
 -- Quick sort <br />
+4] Sort 0 1 2
 
 
