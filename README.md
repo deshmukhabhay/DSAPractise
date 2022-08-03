@@ -14,4 +14,6 @@ Arrays <br />
 LinkedList can contain the same element multiple times if the same element is added <br />multiple times.
 
 HashSet can only contain the same object once even if you add it multiple times, <br />but it does not retain insertion order in the set.
-
+<br />
+7] Cyclically rotate an array by one
+-- reverse part of array<br />
